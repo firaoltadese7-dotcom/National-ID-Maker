@@ -1,4 +1,5 @@
-Flask==3.0.2
+cd National-ID-Maker
+echo "Flask==3.0.2
 PyMuPDF==1.24.1
 Pillow==10.2.0
 pytesseract==0.3.10
@@ -6,4 +7,4 @@ ethiopian-date-converter==0.2.1
 qrcode==7.4.2
 pytz==2024.1
 Werkzeug==3.0.1
-gunicorn==21.2.0
+gunicorn==21.2.0" > requirements.txt
